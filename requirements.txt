@@ -1,0 +1,9 @@
+tensorflow //done
+keras //done
+pandas  //done
+numpy   //done
+jupyter  //done
+notebook //done
+tqdm     //done
+opencv-contrib-python  //done
+scikit-learn //done
